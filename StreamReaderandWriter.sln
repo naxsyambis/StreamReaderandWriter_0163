@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ioFile", "StreamReaderandWr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "iosFileWithPath", "iosFileWithPath\iosFileWithPath.vcxproj", "{5CE9D6A5-0068-490D-820F-D6ADCFF5884C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "manualException", "manualException\manualException.vcxproj", "{379BEDD6-F1F5-410E-A1AC-A223871B13D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{5CE9D6A5-0068-490D-820F-D6ADCFF5884C}.Release|x64.Build.0 = Release|x64
 		{5CE9D6A5-0068-490D-820F-D6ADCFF5884C}.Release|x86.ActiveCfg = Release|Win32
 		{5CE9D6A5-0068-490D-820F-D6ADCFF5884C}.Release|x86.Build.0 = Release|Win32
+		{379BEDD6-F1F5-410E-A1AC-A223871B13D2}.Debug|x64.ActiveCfg = Debug|x64
+		{379BEDD6-F1F5-410E-A1AC-A223871B13D2}.Debug|x64.Build.0 = Debug|x64
+		{379BEDD6-F1F5-410E-A1AC-A223871B13D2}.Debug|x86.ActiveCfg = Debug|Win32
+		{379BEDD6-F1F5-410E-A1AC-A223871B13D2}.Debug|x86.Build.0 = Debug|Win32
+		{379BEDD6-F1F5-410E-A1AC-A223871B13D2}.Release|x64.ActiveCfg = Release|x64
+		{379BEDD6-F1F5-410E-A1AC-A223871B13D2}.Release|x64.Build.0 = Release|x64
+		{379BEDD6-F1F5-410E-A1AC-A223871B13D2}.Release|x86.ActiveCfg = Release|Win32
+		{379BEDD6-F1F5-410E-A1AC-A223871B13D2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
